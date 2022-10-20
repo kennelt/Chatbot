@@ -14,7 +14,7 @@
     "body-parser": "^1.18.2",
     "date-and-time": "^0.6.2",
     "express": "^4.15.2",
-    "mongoose": "^4.11.13",
+    "mongoose": "^4.13.21",
     "node-datetime": "^2.0.6"
   },
   "repository": {
